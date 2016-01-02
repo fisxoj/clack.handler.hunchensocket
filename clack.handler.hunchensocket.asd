@@ -6,6 +6,7 @@
   :license "LLGPLv3"
   :depends-on (#:hunchensocket
                #:clack
+               #:lack-component
                #:alexandria
 	       #:split-sequence)
   :serial t
