@@ -7,7 +7,7 @@
 	#:split-sequence)
   (:shadow :stop
 	   #:handle-request)
-  (:import-from :clack.component
+  (:import-from :lack.component
 		#:call)
   (:import-from :flexi-streams
 		#:make-external-format
